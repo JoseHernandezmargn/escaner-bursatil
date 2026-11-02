@@ -1,0 +1,49 @@
+{
+  "inicio": "2026-11-02",
+  "trimestre": "2026T4",
+  "fecha_entrada": "2026-11-02",
+  "valor_entrada": 100.0,
+  "bench_entrada": 100.0,
+  "posiciones": {
+    "BBAJIOO.MX": {
+      "peso": 0.125,
+      "nombre": "BANCO DEL BAJIO",
+      "sector": "Financial Services"
+    },
+    "ALPEKA.MX": {
+      "peso": 0.125,
+      "nombre": "ALPEK SAB DE CV",
+      "sector": "Basic Materials"
+    },
+    "GFNORTEO.MX": {
+      "peso": 0.125,
+      "nombre": "GRUPO FINANCIERO BANORTE",
+      "sector": "Financial Services"
+    },
+    "FEMSAUBD.MX": {
+      "peso": 0.125,
+      "nombre": "FOMENTO ECONOMICO MEXICANO SAB ",
+      "sector": "Consumer Defensive"
+    },
+    "RA.MX": {
+      "peso": 0.125,
+      "nombre": "REGIONAL SAB DE CV",
+      "sector": "Financial Services"
+    },
+    "KOFUBL.MX": {
+      "peso": 0.125,
+      "nombre": "COCA-COLA FEMSA S.A.B. DE C.V.",
+      "sector": "Consumer Defensive"
+    },
+    "VESTA.MX": {
+      "peso": 0.125,
+      "nombre": "CORPORACION INMOBILIARIA VESTA ",
+      "sector": "Real Estate"
+    },
+    "SIGMAFA.MX": {
+      "peso": 0.125,
+      "nombre": "SIGMA FOODS S.A.B. DE C.V",
+      "sector": "Consumer Defensive"
+    }
+  }
+}

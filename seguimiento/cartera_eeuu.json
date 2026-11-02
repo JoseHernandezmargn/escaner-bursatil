@@ -1,0 +1,134 @@
+{
+  "inicio": "2026-11-02",
+  "trimestre": "2026T4",
+  "fecha_entrada": "2026-11-02",
+  "valor_entrada": 100.0,
+  "bench_entrada": 100.0,
+  "posiciones": {
+    "VLO": {
+      "peso": 0.04,
+      "nombre": "Valero Energy Corporation",
+      "sector": "Energy"
+    },
+    "PSX": {
+      "peso": 0.04,
+      "nombre": "Phillips 66",
+      "sector": "Energy"
+    },
+    "MPC": {
+      "peso": 0.04,
+      "nombre": "Marathon Petroleum Corporation",
+      "sector": "Energy"
+    },
+    "OXY": {
+      "peso": 0.04,
+      "nombre": "Occidental Petroleum Corporatio",
+      "sector": "Energy"
+    },
+    "NTAP": {
+      "peso": 0.04,
+      "nombre": "NetApp, Inc.",
+      "sector": "Technology"
+    },
+    "ADI": {
+      "peso": 0.04,
+      "nombre": "Analog Devices, Inc.",
+      "sector": "Technology"
+    },
+    "TXN": {
+      "peso": 0.04,
+      "nombre": "Texas Instruments Incorporated",
+      "sector": "Technology"
+    },
+    "NUE": {
+      "peso": 0.04,
+      "nombre": "Nucor Corporation",
+      "sector": "Basic Materials"
+    },
+    "CF": {
+      "peso": 0.04,
+      "nombre": "CF Industries Holdings, Inc.",
+      "sector": "Basic Materials"
+    },
+    "VTRS": {
+      "peso": 0.04,
+      "nombre": "Viatris Inc.",
+      "sector": "Healthcare"
+    },
+    "CNC": {
+      "peso": 0.04,
+      "nombre": "Centene Corporation",
+      "sector": "Healthcare"
+    },
+    "TGT": {
+      "peso": 0.04,
+      "nombre": "Target Corporation",
+      "sector": "Consumer Defensive"
+    },
+    "STLD": {
+      "peso": 0.04,
+      "nombre": "Steel Dynamics, Inc.",
+      "sector": "Basic Materials"
+    },
+    "PFG": {
+      "peso": 0.04,
+      "nombre": "Principal Financial Group Inc",
+      "sector": "Financial Services"
+    },
+    "BEN": {
+      "peso": 0.04,
+      "nombre": "Franklin Templeton, Inc.",
+      "sector": "Financial Services"
+    },
+    "ILMN": {
+      "peso": 0.04,
+      "nombre": "Illumina, Inc.",
+      "sector": "Healthcare"
+    },
+    "PANW": {
+      "peso": 0.04,
+      "nombre": "Palo Alto Networks, Inc.",
+      "sector": "Technology"
+    },
+    "LUV": {
+      "peso": 0.04,
+      "nombre": "Southwest Airlines Company",
+      "sector": "Industrials"
+    },
+    "STT": {
+      "peso": 0.04,
+      "nombre": "State Street Corporation",
+      "sector": "Financial Services"
+    },
+    "ADM": {
+      "peso": 0.04,
+      "nombre": "Archer-Daniels-Midland Company",
+      "sector": "Consumer Defensive"
+    },
+    "HUM": {
+      "peso": 0.04,
+      "nombre": "Humana Inc.",
+      "sector": "Healthcare"
+    },
+    "ALL": {
+      "peso": 0.04,
+      "nombre": "Allstate Corporation (The)",
+      "sector": "Financial Services"
+    },
+    "LYB": {
+      "peso": 0.04,
+      "nombre": "LyondellBasell Industries NV",
+      "sector": "Basic Materials"
+    },
+    "DAL": {
+      "peso": 0.04,
+      "nombre": "Delta Air Lines, Inc.",
+      "sector": "Industrials"
+    },
+    "SWK": {
+      "peso": 0.04,
+      "nombre": "Stanley Black & Decker, Inc.",
+      "sector": "Industrials"
+    }
+  }
+}
