@@ -1,0 +1,7 @@
+# Tu lista personal: acciones que tienes o vigilas. Una por renglon.
+# BMV con .MX, EE.UU. sin sufijo.
+WALMEX.MX
+AMXB.MX
+GFNORTEO.MX
+AAPL
+NVDA

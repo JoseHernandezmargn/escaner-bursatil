@@ -1,0 +1,5 @@
+cache/
+resultados/
+__pycache__/
+*.pyc
+log*.txt
